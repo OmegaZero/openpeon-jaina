@@ -1,7 +1,7 @@
 {
   "cesp_version": "1.0",
-  "name": "jaina",
-  "display_name": "Jaina Proudmore",
+  "name": "wc3_jaina",
+  "display_name": "Jaina Proudmore (WarCraft 3)",
   "version": "1.0.1",
   "author": { "name": "OmegaZero", "github": "OmegaZero" },
   "license": "CC-BY-NC-4.0",
