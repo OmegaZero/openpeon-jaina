@@ -2,8 +2,8 @@
   "cesp_version": "1.0",
   "name": "jaina",
   "display_name": "Jaina Proudmore",
-  "version": "1.0.0",
-  "author": { "name": "Buck Jeffcott", "github": "OmegaZero" },
+  "version": "1.0.1",
+  "author": { "name": "OmegaZero", "github": "OmegaZero" },
   "license": "CC-BY-NC-4.0",
   "language": "en",
   "categories": {
